@@ -5,8 +5,7 @@ This project demonstrates live color detection using OpenCV, a popular computer 
 
 Installation
 To run this project, ensure you have Python installed on your system along with the following dependencies:
-OpenCV
-NumPy
+OpenCV, NumPy
 
 Running
 Adjust the trackbars to set the upper and lower thresholds for the color you want to detect.
